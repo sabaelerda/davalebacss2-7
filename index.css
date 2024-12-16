@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#section {
+    max-width: 1604px;
+    width: 100%;
+    background-color: #1B0E0F;
+    margin: 0 auto;
+    margin-top: 64px;
+    padding: 96px;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 1412px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 96px 66px 96px 66px;
+}
+
+#firstContainer {
+    max-width: 1280px;
+    width: 100%;
+}
+
+#blog {
+    color: #002AFE;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+#resource {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+#industry {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#secondContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 56px;
+    display: inline-block; 
+}
+
+#secondContainer img {
+    display: inline-block; 
+    vertical-align: top;
+}
+
+#secondContainerText {
+    display: inline-block; 
+    vertical-align: top;
+    max-width: 584px;
+    width: 100%;
+    padding: 93.5px 0px 93.5px 96px; 
+    margin-left: 20px; 
+}
+
+#design {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    color: #6941C6;
+}
+
+#collab {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    color: #181D27;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#arrow {
+    margin-left: 16px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#col {
+    font-family: Inter;
+    font-size: 16px;
+    color: #535862;
+    margin-top: 8px;
+}
+
+#personImage {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#person {
+    margin-top: 24px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#image {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#name-date-container {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+#name {
+    font-weight: 600;
+    font-family: Inter;
+    color: #181D27;
+    margin: 0;
+}
+
+#date {
+    font-family: Inter;
+    color: #535862;
+    margin: 0;
+    display: block;
+}
+
+#thirdContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 56px;
+    display: inline-block; 
+    margin-top: 56px;
+}
+
+#fourthContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 56px;
+    display: inline-block; 
+    margin-top: 56px;
+}
